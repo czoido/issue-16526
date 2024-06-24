@@ -1,0 +1,6 @@
+[requires]
+hello/0.1
+bye/0.1
+[generators]
+XcodeDeps
+XcodeToolchain

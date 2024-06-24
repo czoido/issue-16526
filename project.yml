@@ -1,0 +1,11 @@
+
+name: app
+targets:
+  app:
+    type: tool
+    platform: macOS
+    sources:
+      - main.cpp
+    configFiles:
+      Debug: conan_config.xcconfig
+      Release: conan_config.xcconfig
