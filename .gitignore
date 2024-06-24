@@ -24,3 +24,4 @@ deactivate_conanbuild.sh
 deactivate_conanrun.sh
 app.xcodeproj/project.pbxproj
 app.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+.vscode/settings.json
